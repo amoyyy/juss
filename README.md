@@ -1,2 +1,2 @@
 # juss
-A Julia Implemetnt SPH Framework coupled with System-Analysis Code
+A Julia Implement SPH Framework coupled with System-Analysis Code
