@@ -1,2 +1,4 @@
 # juss
-A Julia Implemetnt SPH Framework coupled with System-Analysis Code
+A Julia SPH Framework coupled with System-Analysis Code
+
+Inspired by pysph: https://github.com/pypr/pysph
