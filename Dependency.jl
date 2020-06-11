@@ -1,4 +1,4 @@
-SRC_ROOT_DIR = "/home/amos/Projects/Juss_2.0"
+SRC_ROOT_DIR = "/home/amoyyy/Projects/juss"
 
 function ADD_LOAD_PATH(ROOT_DIR::String)
     MODULE_PATHS = String[]
